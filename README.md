@@ -1,2 +1,2 @@
-# data-analysis-2
-analysis of superstore database.
+# data-analysis
+analysis of superstore dataset.
